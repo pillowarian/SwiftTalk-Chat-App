@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597513534413",
+    "project_id": "swifttalkchatapp",
+    "storage_bucket": "swifttalkchatapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597513534413:android:2c533edf542ea4f2c8a284",
+        "android_client_info": {
+          "package_name": "com.example.swifttalkchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeGevVKuAJJezSV6r2E0STsrHTAEdytes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
